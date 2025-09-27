@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋, I'm Elmaur Dehni Namata.
 
+
+<img src="IMAGE_LINK_HERE" alt="Lady with laptop" width="400" align="left"/>
 <!--
-**Elmaur-1/Elmaur-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m interested in Cloud Architecture, Cloud Development and Cloud Devops.
+- 🌱 I’m passionate about technical and enterprise architecture leveraging the cloud solution and technology to solve business chanlenges at all levels.
+- 👯 I’m looking to collaborate and work on projects involving AWS and GCP technologies at all levels.
+- 💬 Ask me about AWS, Devops, microservices and Business communication.
+- 📫 How to reach me **namataelmaur25@gmail.com** .
+- ⚡ I love nature everything about nature. 
 -->
+## LANGUAGE AND TOOLS
+
+<p align="left">
+  <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img title="Amazon Web Services" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img title="Terraform" alt="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  <img title="Kubernetes" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img title="Jenkins" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img title="GitHub Actions" alt="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40"/>
+</p> 
+
