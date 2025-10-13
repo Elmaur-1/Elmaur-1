@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Elmaur Dehni Namata.
-
+ I am fabolous 
 - 🔭 I’m interested in Cloud Architecture, Cloud Development and Cloud Devops.
 - 🌱 I’m passionate about technical and enterprise architecture leveraging the cloud solution and technology to solve business chanlenges at all levels.
 - 👯 I’m looking to collaborate and work on projects involving AWS and GCP technologies at all levels.
